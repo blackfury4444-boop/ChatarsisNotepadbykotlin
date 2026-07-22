@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.CatharsisNotepad" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/black_background</item>
+    </style>
+
+    <!-- Splash Screen theme -->
+    <style name="Theme.CatharsisNotepad.Splash" parent="Theme.CatharsisNotepad">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+</resources>
+
+<resources>
+    <color name="black_background">#FF000000</color>
+    <color name="terminal_green">#FF00FF00</color>
+</resources>
