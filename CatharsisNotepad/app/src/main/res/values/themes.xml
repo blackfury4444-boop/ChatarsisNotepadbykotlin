@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.CatharsisNotepad" parent="android:Theme.Material.Light.NoActionBar" />
+    <color name="black_background">#000000</color>
 </resources>
