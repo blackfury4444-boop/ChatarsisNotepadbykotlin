@@ -1,13 +1,7 @@
 package com.catharsis.notepad.data
 
-import androidx.compose.runtime.remember
-
 import android.content.Context
 import android.os.Environment
-import java.io.File
-import java.io.FileOutputStream
-
-import android.content.Context
 import java.io.File
 import java.io.FileOutputStream
 import java.util.UUID
