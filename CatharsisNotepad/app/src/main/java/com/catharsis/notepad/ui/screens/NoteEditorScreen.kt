@@ -1,20 +1,5 @@
 package com.catharsis.notepad.ui.screens
 
-import androidx.compose.runtime.remember
-
-import android.content.Context
-import android.os.Environment
-import androidx.compose.runtime.Composable
-import androidx.compose.ui.platform.LocalContext
-import java.io.File
-import java.io.FileOutputStream
-
-import androidx.compose.material3.AlertDialog
-import androidx.compose.material3.Button
-import androidx.compose.material3.Text
-import androidx.compose.runtime.Composable
-import androidx.compose.ui.window.DialogProperties
-
 import androidx.activity.compose.BackHandler
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
