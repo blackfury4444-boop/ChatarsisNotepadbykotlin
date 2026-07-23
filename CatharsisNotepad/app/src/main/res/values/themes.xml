@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CatharsisNotepad" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:divider">@drawable/divider</item>
+    </style>
+    <style name="Theme.CatharsisNotepad.Dark" parent="android:Theme.Material.NoActionBar">
+        <item name="android:divider">@drawable/divider_dark</item>
+    </style>
+    <style name="Theme.CatharsisNotepad.Gray" parent="android:Theme.Material.NoActionBar">
+        <item name="android:divider">@drawable/divider_gray</item>
+    </style>
+</resources>
