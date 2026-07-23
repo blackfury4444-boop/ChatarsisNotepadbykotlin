@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- Black background -->
-    <item android:drawable="@drawable/catharsisicon" />
-    <!-- Centered icon in terminal green -->
+    <!-- Crna pozadina (umjesto nepostojeće slike) -->
+    <item>
+        <color android:color="#000000" />
+    </item>
+    <!-- Centrirana sistemska ikonica da prođe build -->
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/ic_launcher_foreground" />
+            android:src="@mipmap/ic_launcher" />
     </item>
 </layer-list>
