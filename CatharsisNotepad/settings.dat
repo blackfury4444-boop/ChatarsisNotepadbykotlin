@@ -1,0 +1,9 @@
+{
+  "theme": "light",
+  "accentColor": "#007bff",
+  "fontSize": 16,
+  "userPreferences": {
+    "autoSave": true,
+    "darkMode": false
+  }
+}
